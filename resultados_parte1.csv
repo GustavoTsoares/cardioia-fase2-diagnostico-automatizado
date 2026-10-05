@@ -1,0 +1,11 @@
+﻿paciente,frase,sintomas_identificados,diagnostico_sugerido
+1,"Há dois dias estou com uma dor muito forte no peito, acompanhada de suor frio, e hoje não consegui terminar minhas atividades.",dor muito forte no peito; suor frio,Infarto agudo do miocárdio
+2,"Há uma semana sinto cansaço constante e falta de ar ao deitar, além de inchaço nas pernas no fim do dia.",cansaço constante; falta de ar ao deitar; inchaço nas pernas,Insuficiência cardíaca
+3,Desde ontem sinto aperto no peito quando subo escadas; a dor melhora quando paro para descansar.,aperto no peito; melhora quando paro para descansar,Angina
+4,"Nos últimos três dias tenho palpitações e batimentos irregulares, principalmente à noite, e isso tem atrapalhado meu sono.",palpitações; batimentos irregulares,Arritmia
+5,"Há cinco dias venho tendo dor de cabeça e percebi a pressão alta em várias medições, o que tem dificultado meu trabalho.",dor de cabeça; pressão alta,Hipertensão arterial
+6,"Desde esta manhã sinto tontura ao levantar e a visão escurece por alguns segundos, fazendo com que eu precise me sentar.",tontura ao levantar; visão escurece,Hipotensão
+7,Há dois dias sinto dor no peito que piora quando respiro fundo e melhora quando fico sentado inclinado para frente.,piora quando respiro fundo; melhora quando fico sentado inclinado,Pericardite
+8,"Desde ontem meu coração fica muito acelerado mesmo em repouso, causando ansiedade e dificuldade para me concentrar.",coração fica muito acelerado; mesmo em repouso,Taquicardia
+9,Há alguns dias percebo batimentos muito lentos acompanhados de fraqueza e quase desmaiei durante uma caminhada.,batimentos muito lentos; quase desmaiei,Bradicardia
+10,Há algumas semanas sinto cansaço aos esforços e falta de ar ao subir escadas; em uma consulta anterior foi mencionado um sopro cardíaco.,sopro cardíaco; cansaço aos esforços; falta de ar ao subir escadas,Valvopatia

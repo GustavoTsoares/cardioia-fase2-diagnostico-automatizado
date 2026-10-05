@@ -1,0 +1,31 @@
+﻿sintoma_1,sintoma_2,doenca_associada
+dor muito forte no peito,suor frio,Infarto agudo do miocárdio
+dor intensa no peito,náusea,Infarto agudo do miocárdio
+dor no peito irradiando para o braço,dor no peito com suor frio,Infarto agudo do miocárdio
+cansaço constante,falta de ar ao deitar,Insuficiência cardíaca
+inchaço nas pernas,acorda com falta de ar,Insuficiência cardíaca
+fadiga intensa,edema nas pernas,Insuficiência cardíaca
+aperto no peito,melhora quando paro para descansar,Angina
+dor no peito ao esforço,dor ao subir escadas,Angina
+pressão no tórax durante esforço,melhora com repouso,Angina
+palpitações,batimentos irregulares,Arritmia
+batimentos descompassados,pulso irregular,Arritmia
+coração falhando,ritmo irregular,Arritmia
+dor de cabeça,pressão alta,Hipertensão arterial
+visão turva,pressão elevada,Hipertensão arterial
+zumbido,hipertensão,Hipertensão arterial
+tontura ao levantar,visão escurece,Hipotensão
+fraqueza ao levantar,pressão baixa,Hipotensão
+sensação de desmaio ao levantar,tontura postural,Hipotensão
+piora quando respiro fundo,melhora quando fico sentado inclinado,Pericardite
+dor torácica ao respirar fundo,melhora inclinado para frente,Pericardite
+dor no peito ao respirar,dor alivia sentado,Pericardite
+coração fica muito acelerado,mesmo em repouso,Taquicardia
+batimentos muito rápidos,coração disparado,Taquicardia
+frequência cardíaca muito alta,taquicardia,Taquicardia
+batimentos muito lentos,quase desmaiei,Bradicardia
+pulso muito lento,fraqueza intensa,Bradicardia
+frequência cardíaca baixa,desmaio com pulso lento,Bradicardia
+sopro cardíaco,cansaço aos esforços,Valvopatia
+falta de ar ao subir escadas,sopro no coração,Valvopatia
+cansaço ao esforço com sopro,doença valvar,Valvopatia
