@@ -48,8 +48,6 @@ CardioIA_Fase2/
 ├── parte2_classificador.ipynb
 ├── demo_completo.py
 ├── requirements.txt
-├── ROTEIRO_VIDEO_4MIN.md
-├── CHECKLIST_ENTREGA.md
 └── outputs/
     ├── distribuicao_classes.png
     └── matriz_confusao.png
@@ -101,11 +99,11 @@ Na execução preparada neste repositório, o holdout obteve **90% de acurácia*
 
 ### Distribuição das classes
 
-![Distribuição das classes](outputs/distribuicao_classes.png)
+![Distribuição das classes](distribuicao_classes.png)
 
 ### Matriz de confusão
 
-![Matriz de confusão](outputs/matriz_confusao.png)
+![Matriz de confusão](matriz_confusao.png)
 
 ## Análise de vieses e governança
 
