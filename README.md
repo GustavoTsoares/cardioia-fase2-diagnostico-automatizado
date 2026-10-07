@@ -48,9 +48,8 @@ CardioIA_Fase2/
 ├── parte2_classificador.ipynb
 ├── demo_completo.py
 ├── requirements.txt
-└── outputs/
-    ├── distribuicao_classes.png
-    └── matriz_confusao.png
+├── distribuicao_classes.png
+└── matriz_confusao.png
 ```
 
 ## Parte 1 — Extração de sintomas
