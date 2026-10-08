@@ -145,7 +145,7 @@ Depois, abra o notebook e mostre a matriz de confusão e a seção de análise d
 
 Vídeo de demonstração (YouTube — não listado):
 
-**[COLE_AQUI_O_LINK_DO_YOUTUBE]**
+https://youtu.be/As-Zl0--VKA?is=1oyHbfhN1Vn5tdjo
 
 ## Correspondência com a rubrica
 
